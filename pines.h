@@ -9,3 +9,4 @@ byte mar   = A1; //pin de mariposa de acelerador
 byte LMBA  = A4; //pin sonda lambda A
 byte LMBB  = A5; //pin sonda lambda B
 byte vmtP  = 4;  //pin de ventialador
+hpola
